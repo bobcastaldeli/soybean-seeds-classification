@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+plotly
+scikit-learn==1.2.2
+transformers
+embetter[text]
+umap-learn
+fastapi==0.95.1
+pydantic
+streamlit
